@@ -21,7 +21,7 @@ Análisis rápido de costos y eficiencia operativa de una flota de transporte de
 ¿Qué conductores se asocian a más reparaciones no programadas? Podría indicar indicios por mal uso de los vehículos.
 ¿Cuándo se hacen los servicios? Ver el calendario de 2025 ayuda a planificar el mantenimiento y evitar que varias unidades queden fuera de servicio a la vez.
 
-## **Combinados, los scripts alimentan decisiones como:**
+## **Combinados, los scripts ayudan a la toma de decisiones como:**
 
 * Reducir el costo por kilómetro, que es el indicador clave en transporte.
 * Decidir renovación de flota: qué camiones vender o reemplazar.
